@@ -9,17 +9,17 @@ xcode-select --install
 ## Firefox Nightly or Developer
 brew install firefox-developer-edition or brew install firefox-nightly
 
-##Alfred (Spotlight replacement)
+## Alfred (Spotlight replacement)
 brew install alfred
 
-##spectacle (window manager)
+## spectacle (window manager)
 brew install spectacle
 
-##qBittorrent
+## qBittorrent
 brew install qbittorrent
 
-##Tor Browser
+## Tor Browser
 brew install tor-browser
 
-##Figma
+## Figma
 brew install figma
