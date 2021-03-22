@@ -23,3 +23,8 @@ brew install tor-browser
 
 ## Figma
 brew install figma
+
+
+## Download Cleanshot X
+
+## Transmit for FTP transfers
