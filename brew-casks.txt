@@ -1,0 +1,13 @@
+iterm2
+alfred
+rectangle
+alt-tab
+firefox-developer-edition
+app-cleaner
+keepingyouawake
+slack
+vlc
+keka
+time-out
+gimp
+visual-studio-code
