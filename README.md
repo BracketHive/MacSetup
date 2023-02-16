@@ -202,7 +202,7 @@ I replace the built-in `CMD+TAB` shortcut with AltTab.
 ```sh
 brew install alt-tab
 ```
-![image](https://user-images.githubusercontent.com/22455765/218741977-09f69477-4b05-428c-b583-e8dff8062d69.png)
+![image](https://user-images.githubusercontent.com/22455765/219330635-a9f6eae4-c85f-4b6d-a56d-74b8f6c5ec15.png)
 
 
 ### Quick Launching
